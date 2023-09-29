@@ -501,8 +501,6 @@
 	<dict>
 		<key>Add</key>
 		<array>
-			<key>Add</key>
-		<array>
 			<dict>
 				<key>Arch</key>
 				<string>Any</string>
@@ -1529,7 +1527,7 @@
 		<key>UpdateSMBIOS</key>
 		<true/>
 		<key>UpdateSMBIOSMode</key>
-		<string>Create</string>
+		<string>Custom</string>
 		<key>UseRawUuidEncoding</key>
 		<false/>
 	</dict>
